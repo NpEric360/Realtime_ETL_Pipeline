@@ -13,6 +13,7 @@ Follow manual_setup for installing the dependencies on EC2 instance:
 3. Apache Kafka and Kafka configuration
 4. Create Kafka topic
 5. Starting Kafka Zookeeper and Kafka server
+6. AWS S3 bucket configuration
    
 Then launch producer.py and consumer.py to complete the Kafka ecosystem. 
 
